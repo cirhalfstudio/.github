@@ -8,4 +8,4 @@
 - owner's telegram (russian/english/serbian): **@yxzhin**
 - co-owner's telegram (ukrainian/english/russian): **@lemogames**
 - telegram channel (russian only): **t.me/ae_yuzhin**
-- discord: currently unavailable
+- discord: https://discord.gg/w9fBQQ6qse
