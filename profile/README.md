@@ -1,7 +1,7 @@
-## 🍬🦋 Yxzhin Studio Inc. 🦋🍬
+## Cirhalf Studio
 - preferred languages: russian/ukrainian/english/serbian
-- working on backend (**php**, **sql**), discord bots (**python**, frameworks: **pycord** (preferred), **discord.py** (secondary))
-- team: @yxzhin (owner), @svlemogames (co-owner)
+- working on backend (**php**), discord bots (**python**, framework: **discord.py**)
+- team: @svlemogames (owner), @yxzhin (co-owner)
 ## contact
-- owner's telegram (russian/english/serbian): **@yxzhin**
-- co-owner's telegram (ukrainian/english/russian): **@lemogames**
+- owner's telegram (ukrainian/english/russian): **@lemogames**
+- co-owner's telegram (russian/english/serbian): **@yxzhin**
